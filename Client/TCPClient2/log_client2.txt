@@ -1,0 +1,2 @@
+LOG_ERROR 20200621T185514 client2 pid: 19788 main: 42 Connect error
+LOG_INFO 20200621T185531 client2 pid: 19788 main: 46 Connect Demo Server Success!

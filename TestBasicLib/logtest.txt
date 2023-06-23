@@ -1,0 +1,29 @@
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 17 hello
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 18 world
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 19 1.230000
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 21 TRUE
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 22 5000
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 23 000000000000000f
+LOG_INFO 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 24 05
+LOG_WARNING 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 25 05
+LOG_ERROR 20200621T173655 LogTest pid: 8100 `anonymous-namespace'::LogTest::test: 26 05
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 17 hello
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 18 world
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 19 1.230000
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 21 TRUE
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 22 5000
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 23 000000000000000f
+LOG_INFO 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 24 05
+LOG_WARNING 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 25 05
+LOG_ERROR 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 26 05
+LOG_ERROR 2023-06-23 21:35:22 LogTest pid: 18076 `anonymous-namespace'::LogTest::test: 28 123456
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 17 hello
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 18 world
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 19 1.230000
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 21 TRUE
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 22 5000
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 23 000000000000000f
+LOG_INFO 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 24 05
+LOG_WARNING 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 25 05
+LOG_ERROR 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 26 05
+LOG_ERROR 2023-06-23 21:39:28 LogTest pid: 7528 `anonymous-namespace'::LogTest::test: 28 123456
