@@ -9,4 +9,4 @@ A mini server with 2 clients
 Specific design refer to design folder
 
 Dependencies:
-boost libs, please copy boost lib and include files to depends folder.
+boost libs, please unzip boost lib in depends/boost_1_72_0 folder.
